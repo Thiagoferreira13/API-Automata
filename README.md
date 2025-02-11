@@ -24,7 +24,7 @@ Uma API RESTful desenvolvida com FastAPI para simulação e teste de diferentes 
 
 1. Clone o repositório:
 ```bash
-git clone <seu-repositorio>
+git clone https://github.com/Thiagoferreira13/API-Automata.git
 cd api-automata
 ```
 
