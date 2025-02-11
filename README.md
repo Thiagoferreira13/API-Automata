@@ -97,6 +97,7 @@ api-automata/
 ## Exemplos de Uso
 
 ### 1. Criando um AFD
+* Exemplo: Cria um AFD que aceita números binários representando múltiplos de 3
 ```json
 {
   "estados": ["q0", "q1", "q2"],
@@ -112,6 +113,7 @@ api-automata/
 ```
 
 ### 2. Criando um AP
+* Exemplo: Cria um AP que aceita a linguagem a^n b^n
 ```json
 {
   "estados": ["q0", "q1", "q2"],
@@ -143,6 +145,8 @@ api-automata/
 ```
 
 ### 3. Criando uma MT
+* Exemplo: Cria uma máquina de turing que aceita a linguagem  a^n b^n c^n
+
 ```json
 {
   "estados": ["q0", "q1", "qf"],
